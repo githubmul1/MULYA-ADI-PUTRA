@@ -1,39 +1,39 @@
-# Hi, I'm Mulya Adi Putra 👋
+<h1 align="center">Hi 👋, I'm Mulya Adi Putra</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | Informatics Student</h3>
 
-🎓 Informatics Student (Semester 6)  
-🤖 Aspiring Machine Learning Engineer  
-📍 Indonesia  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=githubmul1&label=Profile%20views&color=0e75b6&style=flat" alt="githubmul1" />
+</p>
 
 ---
 
 ## 🚀 About Me
-Saya adalah mahasiswa Informatika yang sedang fokus mendalami 
-Machine Learning dan Data Science. 
 
-Saat ini saya aktif membangun portfolio project berbasis Python
-untuk memperkuat kemampuan dalam data preprocessing, model training,
-dan evaluasi model.
-
-Saya percaya bahwa konsistensi dan praktik nyata adalah kunci 
-untuk menjadi AI Engineer yang kompeten.
+- 🎓 Informatics Student (Semester 6)
+- 🤖 Focused on Machine Learning & AI
+- 💡 Passionate about building intelligent systems
+- 📈 Currently building ML portfolio projects
 
 ---
 
 ## 🛠 Tech Stack
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- SQL
-- Git & GitHub
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
 ## 📚 Currently Learning
-- Machine Learning Model Evaluation
+- Model Evaluation & Validation
 - Feature Engineering
-- Classification & Regression
 - Deep Learning Fundamentals
 
 ---
@@ -41,15 +41,17 @@ untuk menjadi AI Engineer yang kompeten.
 ## 🎯 2026 Goals
 - Build 5 Machine Learning Projects
 - Create 1 End-to-End ML Project
-- Publish AI-focused portfolio
 - Prepare for AI Internship
 
 ---
 
-## 📂 Upcoming Projects
-🚧 Student Graduation Prediction (Classification)  
-🚧 House Price Prediction (Regression)  
-🚧 Sentiment Analysis (NLP)  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=githubmul1&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubmul1&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
